@@ -1,0 +1,536 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"switch"
+			],
+			[
+				"send",
+				"send_buff"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"d",
+				"display_buff"
+			],
+			[
+				"uint",
+				"uint8_t"
+			],
+			[
+				"sen",
+				"send_buff"
+			],
+			[
+				"x",
+				"xhigh"
+			],
+			[
+				"uin",
+				"uint8StructTypeDef"
+			],
+			[
+				"o",
+				"originalData"
+			],
+			[
+				"LED",
+				"LED_RIGHT"
+			],
+			[
+				"LED_",
+				"LED_LEFT"
+			],
+			[
+				"G",
+				"GPIO_Pin_0"
+			],
+			[
+				"gpio_p",
+				"GPIO_Pin_All"
+			],
+			[
+				"g",
+				"GPIOC"
+			],
+			[
+				"GPIO",
+				"GPIO_Pin"
+			],
+			[
+				"LS",
+				"LS279_R"
+			],
+			[
+				"Rea",
+				"ResetArrayLine"
+			],
+			[
+				"L",
+				"LINE_STZE"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"LS279",
+				"LS279_R"
+			],
+			[
+				"HC",
+				"HC165_CLK"
+			],
+			[
+				"port",
+				"port_init"
+			],
+			[
+				"pos_",
+				"pos_y_color2"
+			],
+			[
+				"pos",
+				"pos_y_color1"
+			],
+			[
+				"pox",
+				"pos_x_color2"
+			],
+			[
+				"uart",
+				"uart_rx_irq_en"
+			],
+			[
+				"co",
+				"color2_count"
+			],
+			[
+				"colo",
+				"color2_count"
+			],
+			[
+				"po",
+				"pos_y_color2"
+			],
+			[
+				"p",
+				"pos_y_color2"
+			],
+			[
+				"t",
+				"task_run_flag"
+			],
+			[
+				"ta",
+				"task_run_flag"
+			],
+			[
+				"ra",
+				"task_run_flag"
+			],
+			[
+				"PIT",
+				"PIT_Flag_Clear"
+			],
+			[
+				"PTB",
+				"PTB21"
+			],
+			[
+				"pxi",
+				"pixy_get_buff_uint16"
+			],
+			[
+				"pix",
+				"pixy_get_buff_uint16"
+			],
+			[
+				"pixy",
+				"pixy_get_buff_uint8"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"w",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "User/main.c",
+			"settings":
+			{
+				"buffer_size": 1336,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Convert Case: Lower Case"
+			],
+			[
+				"IN",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Install Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 408.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print 'Please restart Sublime Text to finish installation'"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/GitHub/MyProject/FreeRTOS_Template-master/FreeRTOS_Test/FreeRTOS_Test.sublime-project",
+		"/E/GitHub/MyProject/FreeRTOS_Template-master/FreeRTOS_Test/User/main.c",
+		"/E/GitHub/Robo2017/Robo2017/Robocon_Test/Hardware/Robocon_TIM.h",
+		"/E/GitHub/Robo2017/Robo2017/Robocon_Test/STM32F10x_FWLib/inc/stm32f10x_usart.h",
+		"/E/GitHub/Robo2017/Robo2017/Robocon_Test/STM32F10x_FWLib/src/stm32f10x_usart.c",
+		"/E/GitHub/Robo2017/Robo2017/Robocon_Test/USER/stm32f10x.h",
+		"/E/GitHub/Robo2017/Robo2017/HelloWorld.c",
+		"/E/GitHub/MyProject/HelloWorld",
+		"/E/My project/robocon2017/底盘/触摸屏/APP/touch.h",
+		"/E/My project/robocon2017/底盘/触摸屏/APP/timer.c",
+		"/E/My project/robocon2017/底盘/触摸屏/Libraries/STM32F10x_StdPeriph_Driver/src/stm32f10x_gpio.c",
+		"/E/My project/robocon2017/底盘/触摸屏/APP/spi.h",
+		"/E/My project/robocon2017/底盘/触摸屏/APP/gui.c",
+		"/E/My project/robocon2017/底盘/触摸屏/APP/spi.c",
+		"/E/My project/robocon2017/底盘/触摸屏/APP/led.c",
+		"/E/My project/robocon2017/底盘/触摸屏/APP/touch.c",
+		"/E/My project/robocon2017/底盘/触摸屏/APP/flash.c",
+		"/E/My project/robocon2017/底盘/触摸屏/Libraries/CMSIS/CM3/DeviceSupport/ST/STM32F10x/system_stm32f10x.c",
+		"/E/My project/robocon2017/底盘/触摸屏/Libraries/STM32F10x_StdPeriph_Driver/src/stm32f10x_rcc.c",
+		"/E/My project/robocon2017/底盘/触摸屏/APP/system.c",
+		"/E/My project/robocon2017/底盘/触摸屏/APP/lcd_driver.h",
+		"/E/My project/robocon2017/底盘/触摸屏/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_spi.h",
+		"/E/My project/robocon2017/底盘/触摸屏/led.h",
+		"/E/My project/robocon2017/底盘/触摸屏/user/stm32f10x_it.c",
+		"/E/My project/robocon2017/底盘/触摸屏/APP/lcd_driver.c",
+		"/E/My project/robocon2017/底盘/触摸屏/APP/data.h",
+		"/E/My project/robocon2017/底盘/触摸屏/APP/beep.c",
+		"/E/My project/robocon2017/底盘/触摸屏/Libraries/STM32F10x_StdPeriph_Driver/src/stm32f10x_spi.c",
+		"/E/My project/robocon2017/底盘/触摸屏/user/stm32f10x_it.h",
+		"/E/My project/robocon2017/底盘/触摸屏/APP/.tags",
+		"/E/资料/FPGA/AX309.160229/AX309/09_VERILOG/04_led_test/LED_bak.v",
+		"/E/My project/robocon2017/底盘/触摸屏/APP/led.h",
+		"/E/My project/robocon2017/底盘/触摸屏/APP/system.h",
+		"/E/My project/robocon2017/底盘/触摸屏/APP/flash.h",
+		"/E/My project/robocon2017/底盘/触摸屏/APP/beep.h",
+		"/E/My project/robocon2017/底盘/触摸屏/Libraries/CMSIS/CM3/DeviceSupport/ST/STM32F10x/stm32f10x.h",
+		"/E/My project/robocon2017/底盘/触摸屏/user/main.c",
+		"/E/My project/robocon2017/底盘/触摸屏/APP/timer.h",
+		"/E/My project/robocon2017/底盘/触摸屏/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_tim.h",
+		"/E/My project/robocon2017/底盘/触摸屏/Libraries/STM32F10x_StdPeriph_Driver/inc/stm32f10x_rcc.h",
+		"/E/My project/robocon2017/底盘/触摸屏/APP/printf.h",
+		"/E/My project/robocon2017/底盘/触摸屏/APP/printf.c",
+		"/E/资料/stm32/STM32PZ6806L-HX8357C-D/实验程序/库函数版/实验36：触摸屏-SPI/触摸屏-SPI/app/lcd/lcd_driver.h",
+		"/E/My project/robocon2017/圆盘检测/MDK_STM32F103_BASEPROJECT/Libraries/CMSIS/CM3/DeviceSupport/ST/STM32F10x/system_stm32f10x.c",
+		"/E/My project/robocon2017/圆盘检测/MDK_STM32F103_BASEPROJECT/APP/CheakPosition.c",
+		"/E/My project/robocon2017/圆盘检测/MDK_STM32F103_BASEPROJECT/APP/LedUser.h",
+		"/E/My project/robocon2017/圆盘检测/MDK_STM32F103_BASEPROJECT/APP/LedUser.c",
+		"/E/My project/MDK_STM32F103_BASEPROJECT/user/public.h",
+		"/E/资料/stm32/STM32PZ6806L-HX8357C-D/实验程序/库函数版/实验1：LED闪烁/工程模板/APP/led.c",
+		"/E/My project/MDK_STM32F103_BASEPROJECT/APP/led.h",
+		"/E/My project/MDK_STM32F103_BASEPROJECT/APP/led.c",
+		"/E/资料/stm32/STM32PZ6806L-HX8357C-D/实验程序/库函数版/实验5：按键/工程模板/APP/key/key.c",
+		"/E/资料/stm32/STM32PZ6806L-HX8357C-D/实验程序/库函数版/实验5：按键/工程模板/APP/key/key.h",
+		"/E/Sublime Text 3 Build 3059/Data/Packages/CTags/CTags.sublime-settings",
+		"/E/My project/robocon2017/圆盘检测/PORT_KEY/App/main.c",
+		"/E/My project/robocon2017/圆盘检测/PORT_KEY/App/CheakPosition.c",
+		"/E/My project/robocon2017/圆盘检测/PORT_KEY/Chip/inc/MK60_gpio_cfg.h",
+		"/E/My project/robocon2017/圆盘检测/PORT_KEY/App/Inc/MK60_conf.h",
+		"/E/资料/OpenCV/opencv/sources/modules/python/src2/cv2.cpp",
+		"/E/资料/OpenCV/opencv/sources/apps/annotation/opencv_annotation.cpp",
+		"/E/My project/robocon2017/圆盘检测/PORT_KEY/App/Inc/PORT_cfg.h",
+		"/E/My project/robocon2017/圆盘检测/PORT_KEY/Chip/inc/MK60_gpio.h",
+		"/E/My project/robocon2017/圆盘检测/PORT_KEY/App/Inc/include.h",
+		"/E/My project/robocon2017/圆盘检测/PORT_KEY/App/Inc/MK60_it.h",
+		"/E/My project/robocon2017/圆盘检测/PORT_KEY/App/MK60_conf.c",
+		"/C/Users/user/Documents/1.txt",
+		"/E/My project/颜色识别/串口接收程序 - simple/Chip/inc/MK60_uart.h",
+		"/E/My project/颜色识别/串口接收程序 - simple/Chip/src/MK60_uart.c",
+		"/E/My project/颜色识别/串口接收程序 - simple/App/Inc/MK60_conf.h",
+		"/E/My project/颜色识别/串口接收程序 - simple/Board/src/VCAN_LED.C",
+		"/E/My project/颜色识别/串口接收程序/Board/src/VCAN_key.c",
+		"/E/My project/颜色识别/串口接收程序/App/Inc/include.h",
+		"/E/My project/颜色识别/串口接收程序/App/MK60_conf.c",
+		"/E/My project/颜色识别/串口接收程序/Chip/inc/common.h",
+		"/E/My project/颜色识别/串口接收程序/App/Inc/PORT_cfg.h",
+		"/E/My project/颜色识别/串口接收程序/App/Inc/MK60_conf.h",
+		"/E/时间片轮询法.txt",
+		"/E/My project/颜色识别/串口接收程序/Chip/src/MK60_uart.c",
+		"/E/My project/颜色识别/串口接收程序/串口接收.sublime-project",
+		"/E/My project/ModelSimText/Bottom/Bottom.v",
+		"/E/My project/颜色识别/Learning Robot - 图像采集完成/App/Inc/include.h",
+		"/E/My project/颜色识别/Learning Robot - 图像采集完成/Chip/src/misc.c",
+		"/E/My project/颜色识别/Learning Robot - 图像采集完成/Board/inc/VCAN_OV7725_Wolf.h",
+		"/E/My project/颜色识别/Learning Robot - 图像采集完成/App/MK60_it.c",
+		"/E/My project/颜色识别/Learning Robot - 图像采集完成/Board/src/VCAN_computer.c",
+		"/E/My project/颜色识别/Learning Robot - 图像采集完成/Board/inc/VCAN_OV7725_Eagle.h",
+		"/E/My project/颜色识别/Learning Robot - 图像采集完成/Board/inc/VCAN_SCCB.h",
+		"/E/My project/颜色识别/Learning Robot - 图像采集完成/System/ImageCapture.c",
+		"/E/My project/颜色识别/Learning Robot - 图像采集完成/Chip/src/MK60_adc.c",
+		"/E/My project/颜色识别/Learning Robot - 图像采集完成/Board/src/VCAN_OV7725_Eagle.c",
+		"/E/My project/颜色识别/Learning Robot - 图像采集完成/System/inc/ImageCapture.h",
+		"/E/My project/颜色识别/Learning Robot - 图像采集完成/Chip/inc/common.h",
+		"/E/Sublime Text 3 Build 3059/Data/Packages/User/CTags.sublime-settings",
+		"/E/资料/FPGA/第一天/led_flow.v",
+		"/E/My project/颜色识别/Learning Robot - 图像采集完成/Chip/inc/MK60_adc.h",
+		"/E/My project/MDK_STM32F407_BASEPROJECT/Libraries/CMSIS/ST/STM32F4xx/Include/stm32f4xx.h",
+		"/E/资料/stm32/STM32F103/YD01-STM32F103C8T6核心板资料/测试程序/YD-STMF1系列核心板测试程序-LED/Project/main.c",
+		"/E/My project/MDK_STM32F407_BASEPROJECT/Libraries/CMSIS/ST/STM32F4xx/Include/system_stm32f4xx.h",
+		"/E/My project/MDK_STM32F429_BASEPROJECT/Libraries/CMSIS/Device/ST/STM32F4xx/Source/Templates/arm/startup_stm32f429_439xx.s",
+		"/E/My project/颜色识别/Learning Robot - 图像采集完成/Board/inc/VCAN_computer.h",
+		"/E/My project/颜色识别/Learning Robot - 图像采集完成/Chip/inc/misc.h",
+		"/E/My project/颜色识别/Learning Robot - 图像采集完成/Board/inc/VCAN_camera.h",
+		"/E/My project/颜色识别/Learning Robot - 图像采集完成/Board/inc/VCAN_ASCII.h",
+		"/E/My project/颜色识别/Learning Robot - 图像采集完成/Board/inc/VCAN_OV7725_REG.h",
+		"/E/Sublime Text 3 Build 3059/Data/Packages/Package Control/Package Control.sublime-settings",
+		"/E/My project/颜色识别/pixy camcmu5资料/arduino库文件/arduino/arduino_pixy-0.1.2/Pixy/TPixy.h",
+		"/E/My project/颜色识别/pixy camcmu5资料/arduino库文件/arduino/arduino_pixy-0.1.2/Pixy/Pixy.h",
+		"/E/My project/ARM指令集.txt",
+		"/E/My project/颜色识别/pixy camcmu5资料/arduino库文件/arduino/arduino_pixy-0.1.2/Pixy/PixyI2C.h",
+		"/E/My project/颜色识别/pixy camcmu5资料/arduino库文件/arduino/arduino_pixy-0.1.2/Pixy/PixyUART.h",
+		"/E/My project/robocon data/三轮全向移动平台MK60程序/App/Inc/Action_motion_control.h",
+		"/E/My project/robocon data/三轮全向移动平台MK60程序/App/Action_motion_control.c",
+		"/E/My project/颜色识别/ArduinoHelloWorld.c",
+		"/E/lab/LAB0_led_btn_fast/mbed/I2C.h",
+		"/E/lab/code/LAB3_pwm.c",
+		"/E/My project/颜色识别/main.c",
+		"/E/My project/颜色识别/PixyI2C.c",
+		"/E/My project/颜色识别/TPixyK60.h",
+		"/E/My project/颜色识别/TPixyK60.c",
+		"/E/My project/robocon data/三轮全向移动平台MK60程序/App/main.c",
+		"/E/My project/robocon data/history/全局定位加运动/Quanju_Dingwei/Quanju_Dingwei/SYSTEM/usart/usart.c",
+		"/E/My project/robocon data/history/全局定位加运动/Quanju_Dingwei/Quanju_Dingwei/USER/main.c",
+		"/E/My project/robocon data/history/全局定位加运动/Quanju_Dingwei/Quanju_Dingwei/SYSTEM/sys/sys.c",
+		"/E/My project/robocon data/history/全局定位加运动/电机控制.c",
+		"/E/pixy camcmu5资料/arduino库文件/arduino/arduino_pixy-0.1.2/Pixy/PixyUART.h",
+		"/E/pixy camcmu5资料/arduino库文件/arduino/arduino_pixy-0.1.2/Pixy/PixyI2C.h",
+		"/D/Arduino/libraries/Pixy/Pixy.h",
+		"/E/pixy camcmu5资料/arduino库文件/arduino/arduino_pixy-0.1.2/Pixy/Pixy.h"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"ReadK_UP",
+			"K_RIGHT",
+			" ;",
+			"K_RIGHT",
+			"32",
+			"96",
+			"i",
+			"ENABLE",
+			"(,",
+			"HC",
+			"HC279_R",
+			"addr",
+			"PIXY_START_WORD",
+			"int16",
+			"int8",
+			"uint8",
+			"uint16",
+			"setClockDivider",
+			"SPI_CLOCK_DIV16",
+			"setClockDivider"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"HC",
+			"int",
+			"char",
+			"unsigned char",
+			"unsigned int"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "User/main.c",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1336,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 90.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "FreeRTOS_Test.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 242.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
