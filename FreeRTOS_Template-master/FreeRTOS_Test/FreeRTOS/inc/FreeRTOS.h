@@ -171,7 +171,7 @@ extern "C" {
 #endif
 
 #ifndef INCLUDE_vTaskDelay
-	#define INCLUDE_vTaskDelay 0
+	#define INCLUDE_vTaskDelay 1
 #endif
 
 #ifndef INCLUDE_xTaskGetIdleTaskHandle

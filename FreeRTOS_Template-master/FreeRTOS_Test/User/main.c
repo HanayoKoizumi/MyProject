@@ -20,9 +20,7 @@
   */  
 
 /* Includes ------------------------------------------------------------------*/
-#include "stm32f10x.h"
-//#include "stm32_eval.h"
-#include "stdio.h"
+#include "include.h"
 
 /**
   * @brief  Main program.
@@ -31,11 +29,10 @@
   */
 int main(void)
 {
-  while (1)
-  {
-		
-  }
-	
+    STM32_SystemPeripheralsInit();
+    FreeRTOS_CreatTask();
+
+    for(;;);
 }
 
 
